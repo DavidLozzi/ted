@@ -4,8 +4,26 @@
     {
       "fallback": "Save it for the TeD!",
       "color": "#FF0000",
-      "image_url": "https:\/\/media.giphy.com\/media\/mynqLLcuR1izS\/giphy.gif",
-      "thumb_url": "https:\/\/media.giphy.com\/media\/mynqLLcuR1izS\/giphy.gif"
+      "image_url": "https://raw.githubusercontent.com/DavidLozzi/ted/master/ted%20blue.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/DavidLozzi/ted/master/ted%20blue.jpg"
+    },
+    {
+      "fallback": "Save it for the TeD!",
+      "color": "#FF0000",
+      "image_url": "https://raw.githubusercontent.com/DavidLozzi/ted/master/ted%20help.jpg",
+      "thumb_url": "https://raw.githubusercontent.com/DavidLozzi/ted/master/ted%20help.jpg"
+    },
+    {
+      "fallback": "Save it for the TeD!",
+      "color": "#FF0000",
+      "image_url": "https://raw.githubusercontent.com/DavidLozzi/ted/master/ted%20sign.jpeg",
+      "thumb_url": "https://raw.githubusercontent.com/DavidLozzi/ted/master/ted%20sign.jpeg"
+    },
+    {
+      "fallback": "Save it for the TeD!",
+      "color": "#FF0000",
+      "image_url": "https://raw.githubusercontent.com/DavidLozzi/ted/master/ted%20thinking.png",
+      "thumb_url": "https://raw.githubusercontent.com/DavidLozzi/ted/master/ted%20thinking.png"
     }
   ]
 }
