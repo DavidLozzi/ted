@@ -19,6 +19,6 @@ our squad team holds Technology Elaboration &amp; Design Session, or TeDs. here 
 
 ![Ted Thinking](https://raw.githubusercontent.com/DavidLozzi/ted/master/ted%20thinking.png)
 
-### ted is coming.jpg
+## Copyright notice
 
-![Ted is Coming](https://raw.githubusercontent.com/DavidLozzi/ted/master/ted%20is%20coming.jpg)
+I have no idea who I stole these from, you get the props.
